@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(209, 217, 219)!important;
+    position: relative;
+    
+    
+}
+
+ul.nav-pills {
+    top: 20px;
+    position: fixed;
+}
+
+
+
